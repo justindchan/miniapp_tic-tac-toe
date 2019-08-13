@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-image: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_1280.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ td {
+  border: 1px solid whitesmoke;
+  height: 100px;
+  width: 100px;
+}
+
+.cell {
+  text-align: center;
+  font-size: 300%;
+  color: #ebf7ff;
+  border-radius: 10px;
+}
+
+.reset {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-radius: 10px;
+}
+
+#win {
+  color: #ebf7ff;
+  font-size: 200%;
+}
